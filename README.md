@@ -1,7 +1,7 @@
 # 👋 Hi, I'm WatMountari | Cloud Engineer ☁️  
 
 🚀 Passionate about Cloud Computing, Automation, and DevOps.  
-🔧 Skilled in AWS | Google Cloud | Terraform | Kubernetes | Python.  
+🔧 Skilled in AWS | Google Cloud | Terraform | Kubernetes | Generative AI.  
 📈 Always learning & building real-world cloud projects!  
 
 ## 🌟 About Me  
@@ -12,8 +12,9 @@
 
 
 ## 🎓 Skills 
+✔ **AWS Generative AI Practitioner** 
 ✔ **Google Cloud Associate Cloud Engineer**  
-✔ **AWS Certified Solutions Architect - Associate**  
+✔ **AWS Solutions Architect - Associate**  
 ✔ **Terraform Associate (HashiCorp)**  
 
 🌍 **Let’s build scalable cloud solutions together!** ☁️🚀  
